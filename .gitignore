@@ -1,0 +1,98 @@
+# FitSupps - Git Ignore File
+
+# Sensitive Configuration Files
+config/database.php
+config/email.php
+config/payment.php
+
+# Keep example config files
+!config/database.example.php
+!config/email.example.php
+!config/payment.example.php
+
+# User Uploaded Files
+uploads/products/*
+!uploads/products/.htaccess
+!uploads/products/index.php
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PHP
+*.php~
+*.php.bak
+
+# Logs
+logs/
+*.log
+error.log
+access.log
+
+# Cache
+cache/
+tmp/
+
+# Session Files
+sessions/
+
+# Backup Files
+*.bak
+*.backup
+*.sql.bak
+
+# Environment Files
+.env
+.env.local
+.env.production
+
+# Composer (if using)
+vendor/
+composer.lock
+
+# Node Modules (if using)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Files
+dist/
+build/
+
+# Test Files (optional - you might want to include these)
+# test-*.php
+# *-debug.php
+
+# Documentation Build
+docs/_build/
+
+# Coverage Reports
+coverage/
+*.coverage
+
+# Database Dumps (exclude sensitive data)
+*.sql
+!database/complete_setup.sql
+!create-missing-tables.sql
+
+# Local Development
+local_config.php
+dev_config.php

@@ -1,35 +1,35 @@
-# FitSupps - E-Commerce Website 💪
+# FitSupps - E-Commerce Website 
 
 A complete protein powder e-commerce website built with PHP, MySQL, and modern responsive design.
 
-## 🚀 Features
+##  Features
 
 ### **Customer Features**
-- 🛍️ Product catalog with search and filtering
-- 🛒 Shopping cart with quantity management
-- 👤 User registration and login system
-- 📍 Address management for delivery
-- 💳 Multiple payment options (COD, Online, Card)
-- 🎟️ Coupon system with discounts
-- 📧 Order confirmation emails
-- 📱 Fully responsive mobile design
+-  Product catalog with search and filtering
+-  Shopping cart with quantity management
+-  User registration and login system
+-  Address management for delivery
+-  Multiple payment options (COD, Online, Card)
+-  Coupon system with discounts
+-  Order confirmation emails
+-  Fully responsive mobile design
 
 ### **Admin Features**
-- 📊 Modern admin dashboard with statistics
-- 📦 Product management (add, edit, delete)
-- 🏷️ Category management
-- 📋 Order management and tracking
-- 👥 User management
-- 📈 Sales analytics and reporting
+-  Modern admin dashboard with statistics
+-  Product management (add, edit, delete)
+-  Category management
+-  Order management and tracking
+-  User management
+-  Sales analytics and reporting
 
 ### **Security Features**
-- 🔐 Secure user authentication
-- 🛡️ SQL injection prevention
-- 🔒 Password hashing
-- 🚫 CSRF protection
-- ✅ Input validation and sanitization
+-  Secure user authentication
+-  SQL injection prevention
+-  Password hashing
+-  CSRF protection
+-  Input validation and sanitization
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Backend:** PHP 7.4+
 - **Database:** MySQL 5.7+
@@ -37,14 +37,14 @@ A complete protein powder e-commerce website built with PHP, MySQL, and modern r
 - **Icons:** Font Awesome 6.4.0
 - **Responsive:** CSS Grid & Flexbox
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - Apache/Nginx web server
 - XAMPP/WAMP (for local development)
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -79,7 +79,7 @@ chmod 755 assets/images/
 - **Frontend:** `http://localhost/fitsupp/`
 - **Admin Panel:** `http://localhost/fitsupp/admin/`
 
-## 🔑 Default Login Credentials
+##  Default Login Credentials
 
 ### Admin Access
 - **URL:** `http://localhost/fitsupp/admin/login.php`
@@ -90,7 +90,7 @@ chmod 755 assets/images/
 - **Email:** `test@example.com`
 - **Password:** `password123`
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fitsupp/
@@ -130,7 +130,7 @@ fitsupp/
 └── register.php           # User registration
 ```
 
-## 🧪 Testing
+##  Testing
 
 ### Test Pages Available
 - `test-products.php` - Test product functionality
@@ -141,7 +141,7 @@ fitsupp/
 ### Sample Data
 The database includes sample products and categories to get you started.
 
-## 🎯 Key Features Explained
+##  Key Features Explained
 
 ### **Shopping Cart**
 - Add/remove products
@@ -168,12 +168,12 @@ The database includes sample products and categories to get you started.
 - Order processing
 - User management
 
-## 🎟️ Available Coupons
+##  Available Coupons
 
 - **SAVE10** - 10% discount on any order
 - **FREESHIP** - Free shipping (can be added)
 
-## 📱 Mobile Responsive
+##  Mobile Responsive
 
 The website is fully responsive and works on:
 - Desktop computers
@@ -181,7 +181,7 @@ The website is fully responsive and works on:
 - Mobile phones
 - All screen sizes
 
-## 🔧 Customization
+##  Customization
 
 ### Adding New Products
 1. Login to admin panel
@@ -200,7 +200,7 @@ The website is fully responsive and works on:
 - Add payment processing logic
 - Update checkout flow
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -219,7 +219,7 @@ The website is fully responsive and works on:
 - Check if admin user exists in database
 - Clear browser cache and cookies
 
-## 📈 Performance
+##  Performance
 
 ### Optimization Tips
 - Enable PHP OPcache
@@ -228,7 +228,7 @@ The website is fully responsive and works on:
 - Enable GZIP compression
 - Use CDN for static assets
 
-## 🔒 Security
+##  Security
 
 ### Security Measures Implemented
 - Prepared statements for SQL queries
@@ -237,7 +237,7 @@ The website is fully responsive and works on:
 - CSRF token protection
 - Session security
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -245,18 +245,18 @@ The website is fully responsive and works on:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Support
+##  Support
 
 For support and questions:
 - Create an issue on GitHub
 - Check the troubleshooting section
 - Review the test pages for debugging
 
-## 🎉 Acknowledgments
+##  Acknowledgments
 
 - Font Awesome for icons
 - Modern CSS techniques for responsive design
@@ -264,13 +264,13 @@ For support and questions:
 
 ---
 
-**Made with ❤️ for fitness enthusiasts and protein powder lovers!** 💪
+**Made with  for fitness enthusiasts and protein powder lovers!**
 
-## 🚀 Live Demo
+##  Live Demo
 
 [Add your live demo URL here when deployed]
 
-## 📸 Screenshots
+##  Screenshots
 
 [Add screenshots of your website here]
 
